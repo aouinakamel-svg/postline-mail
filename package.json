@@ -1,0 +1,1 @@
+{"name":"postline-mail","private":true,"workspaces":["apps/*"],"scripts":{"dev":"npm run dev -w @postline/web","build":"npm run build -w @postline/web"}}
